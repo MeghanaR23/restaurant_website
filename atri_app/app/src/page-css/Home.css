@@ -64,6 +64,9 @@ font-size: 50px;
 display: flex;
 background-color: #FF7629;
 width: ;
+justify-content: flex-start;
+row-gap: 3px;
+column-gap: 3px;
 }
 .p-Home.Flex11 {
 display: flex;
